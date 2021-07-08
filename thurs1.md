@@ -1,9 +1,10 @@
-#Group work with Alex MacNamara and Michael Cusack-Nelkin
+***Group work with Alex MacNamara and Michael Cusack-Nelkin***
 
 
 1. The model's accuracy ended up around 0.73, and the validation data is performing slightly better than the training data.
 
-[Accuracy Plot](Images/stack_overflow_accuracy.png) [Loss Plot](Images/stack_overflow_loss.png)
+   [Accuracy Plot](Images/stack_overflow_accuracy.png) [Loss Plot](Images/stack_overflow_loss.png)
+
 
 2. The test data accuracy was also around 0.73. While not perfect, the test data does seem to validate our model
 

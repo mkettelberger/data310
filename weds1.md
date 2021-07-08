@@ -1,9 +1,13 @@
 1. 
-![Image 79](Images/img79.png) ![Image 4,345](Images/img4345.png) ![Image 11,001](Images/img11001.png)
+
+
+   ![Image 79](Images/img79.png) ![Image 4,345](Images/img4345.png) ![Image 11,001](Images/img11001.png)
 
 
 2. 
-![Image 213](Images/img213_array.png) 
+
+
+   ![Image 213](Images/img213_array.png) 
    
    array([5.8389569e-06, 4.8498350e-07, 6.2312815e-02, 4.4064254e-06,
    9.2694354e-01, 1.1861965e-11, 1.0728093e-02, 4.5355267e-13,
@@ -21,19 +25,25 @@
 
 
 5. 
-![Verifying Image 11](Images/verifyimg_11.png) ![Verifying Image 13](Images/verifyimg_13.png)
+
+
+   ![Verifying Image 11](Images/verifyimg_11.png) ![Verifying Image 13](Images/verifyimg_13actual.png)
 
 
 6. 
-![Image 789 of Test Data Plot](Images/testdata_plot789.png)
+
+
+   ![Image 789 of Test Data Plot](Images/testdata_plot789.png)
    
    The predicted value does matche the test label. We didn't use Softmax() this time because it was already used earlier in the code to better distribute the data for the neural network. Argmax() is already using this transformed data to find the maximum probability.
    
 
 7. 
-![Digit Data](Images/digits_img.png)
 
-![Image 16](Images/digits_img16.png) ![Image 22](Images/digits_img22.png)
+
+   ![Digit Data](Images/digits_img.png)
+
+   ![Image 16](Images/digits_img16.png) ![Image 22](Images/digits_img22.png)
 
 With the digit data, the accuracy of the testing data was 0.9784 while the fashion testing data had an accuracy of about 0.88. 
 
