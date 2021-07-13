@@ -21,4 +21,22 @@ are in the training set? How many are used in the validation set?
 4. What is an overfit model? Why is it important to address it? What are four different ways we have addressed an overfit model thus far?
     - An overfit model is one that does very well with the training data because it almost memorizes the targets. This means it does significantly worse on the testing or validation data becuase it has trouble applying what it learned from the training data to the new set.
     It's important to address overfit models because at first, they may seem like they are very accurate, but when given new data they don't do nearly as well.
-      To minimize overfitting, we have tried controlling the size of the dataset (trying tiny, small, medium, and large with the smaller-sized one working better), dropping some data (dropout), and using L2 regularization to control weights and complexity.
+      To minimize overfitting, we have tried controlling the size of the dataset (trying tiny, small, medium, and large with the smaller-sized one working better), dropping some data (dropout), and using L2 regularization to control weights and complexity, and normalizing to make numbers more consistent.
+
+
+
+
+
+
+###CONVOLUTIONS AND IMAGE LOADING
+
+
+
+
+
+
+
+
+
+
+
