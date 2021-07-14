@@ -62,16 +62,17 @@ even when it all still added to zero and had the same weight. For the second and
 
 a. After using the 3x3 filters on the original images, it results in one number for each selected 3x3 cell. This essentially summarizes the
 data, so there is less variation. Applying the filters and pooling to the images is reducing the size as seen by the axes on the
-images. They go from 512x512 to just over 256x256. The convolving filter is useful to computer vision because it simplifies the
-image so it can be read while it still has its filters.
+images. They go from 512x512 to just over 256x256. However, before the images are pooled, they seem to be the same size. The convolving filter 
+is useful to computer vision because it simplifies the image so it can be read while it still has its filters.
 
 
+4. [ [-5,0], [0,5] ]
+![Ascent 2x2](Images/convo_ascent_2x22.png)  ![Ascent 2x2 Pooled](Images/convo_ascent_2x2.png)
 
 
+b. Applying the 2x2 filter to the image made the lines much more defined than 3x3 filter. With 5 less pixels in the filter, it allows
+more details to show up in the convoluted image and looks at smaller samples of the image. Because of the smaller samples, the filter
+has less to summarize and can therefore be more accurate for the sample.
 
-
-
-
-
-
-
+The scale of the resulting image decreased by the same amount it did with the 3x3 filter after pooling was applied. This was reinforced
+by using len() on the image before and after transformation. The method of 2x2 would be useful if your image has smaller details or many objects pictured.
