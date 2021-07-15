@@ -82,9 +82,15 @@ by using len() on the image before and after transformation. The method of 2x2 w
 ***ARRAY***
 
 [0 0 0 3 0 0 0]
+
 [0 0 0 3 0 0 0]
+
 [1 1 1 3 1 1 1]
+
 [1 1 1 3 1 1 1]
+
 [1 1 1 3 1 1 1]
+
 [0 0 0 3 0 0 0]
+
 [0 0 0 3 0 0 0]
