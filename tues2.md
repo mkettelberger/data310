@@ -1,4 +1,4 @@
-###HIGGS DATASET
+***HIGGS DATASET***
 1. Describe the dataset. What type of variable is the target? How many features are being used? How many observations
 are in the training set? How many are used in the validation set?
    - The data has 11,000,000 total data points each with 28 features. For the training set, we used 10,000 points and for validation, we used 1,000.
@@ -76,3 +76,15 @@ has less to summarize and can therefore be more accurate for the sample.
 
 The scale of the resulting image decreased by the same amount it did with the 3x3 filter after pooling was applied. This was reinforced
 by using len() on the image before and after transformation. The method of 2x2 would be useful if your image has smaller details or many objects pictured.
+
+
+
+***ARRAY***
+
+[0 0 0 3 0 0 0]
+[0 0 0 3 0 0 0]
+[1 1 1 3 1 1 1]
+[1 1 1 3 1 1 1]
+[1 1 1 3 1 1 1]
+[0 0 0 3 0 0 0]
+[0 0 0 3 0 0 0]
