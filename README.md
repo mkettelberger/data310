@@ -1,4 +1,4 @@
-# Index Applied Machine Learning
+# Applied Machine Learning
 
 ## Informal Excersies
 - Module 1
@@ -13,7 +13,14 @@
     - [Monday's Response](mon2.md)
     - [Tuesday's Response](tues2.md)
     - [Thursday's Response](thurs2.md)
+  
+
+  
+- Module 3
+    - [Monday's Response](mon3.md)
+    - [Tuesday's Response](tues3.md)
 
 
 ## Projects
 - [Project 1](project1.md)
+- [Project 3](project3.md)
