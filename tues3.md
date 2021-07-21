@@ -55,7 +55,10 @@ each example and displayed it with the correct species name.
     [5.2, 2.3, 1.6, 0.75]
 
 Example 0 prediction: Iris virginica (87.9%)
+
 Example 1 prediction: Iris virginica (90.6%)
+
 Example 2 prediction: Iris setosa (94.5%)
+
 ***All are correct***
 
