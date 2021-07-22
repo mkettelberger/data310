@@ -19,6 +19,7 @@
 - Module 3
     - [Monday's Response](mon3.md)
     - [Tuesday's Response](tues3.md)
+    - [Wednesday's Response](https://huatao-wm.github.io/data310/week3/wed3.html)
 
 
 ## Projects
