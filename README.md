@@ -28,4 +28,4 @@
 
 ## Projects
 - [Project 1](project1.md)
-- [Project 3](project3.md)
+- [Project 3](Project3.md)
