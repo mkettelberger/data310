@@ -1,8 +1,7 @@
 ![Both](Images/weds4_both.png)
 
-![Image 1](Images\stylized-irisred3image.png)
+![Image 1](Images\stylized-irisred3image.png)               ![Image 2](Images\stylized-irisimage.png)
 
-![Image 3](Images\stylized-irisimage.png)
 
 
 1. When applying the style transfer, I tried adjusting several different settings
