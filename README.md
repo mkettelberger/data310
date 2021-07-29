@@ -24,7 +24,7 @@
   
 - Module 4
     - [Wednesday's Response](weds4.md)
-
+    - [Thursday's Repsonse](thurs4.md)
 
 ## Projects
 - [Project 1](project1.md)
