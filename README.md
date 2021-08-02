@@ -30,3 +30,4 @@
 - [Project 1](project1.md)
 - [Project 3](Project3.md)
 - [Project 4](Project4.md)
+- [Final Project](FINAL.md)
