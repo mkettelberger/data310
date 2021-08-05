@@ -26,15 +26,9 @@ the person's life.
 
 This dataset from kaggle looks at several different aspects and measurements of individuals in the context of how likely they
 are to develop heart disease. The set has about 303 different entries, and there are 14 different features I'm using, and all of them are numeric. However, there is
-a mix of discrete and continuous. The images below describe the features in more detail and indicate discrete vs. continuous
-with the green text representing continuous. I selected the final feature (whether or not the individual developed heart disease) to be my target
+a mix of discrete and continuous. I selected the final feature (whether or not the individual developed heart disease) to be my target
 because I intend to find the features that most closely correlate to this outcome in order to build a model that will 
 be able to predict the likelihood of a particular person developing heart disease based off of these correlated measurements.
-
-
-![img.png](img.png)
-
-![img_1.png](img_1.png)
 
 
 To see what was most correlated with the target, I created a heatmap with all of the features. Luckily, all the values were 
@@ -54,3 +48,8 @@ columns and other numeric feature columns.
 One of the downfalls of this dataset is its size. Because there are only 303 different entries, the splits for testing, training, and validation are 
 very small (188 training, 48 validation, 60 test). However, the dataset has a relatively equal proportion of idividuals that
 did end up developing heart disease and those that didn't (138 diagnosed vs 165 healthy).
+
+For the last part of my data interrogation, I wanted to see a graph that labeled each point as healthy or unhealthy
+and compared all the features (multi-dimensional), so I made a PCA graph.
+
+![PCA](Images/final_pca.png)
