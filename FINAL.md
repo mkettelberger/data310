@@ -55,3 +55,5 @@ and compared all the features (multi-dimensional), so I made a PCA graph.
 ![PCA](Images/final_pca.png)
 
 ![Correlation Matrix (0.90 Accuracy)](Images/Final_.90_corrmat.png)
+
+![Final Presentation!](zoom_0.mp4)
